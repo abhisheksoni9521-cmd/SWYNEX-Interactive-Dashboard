@@ -7,5 +7,4 @@ An interactive Power BI dashboard project.
 Open `SWYNEX-Interactive-Dashboard.pbix` using Microsoft Power BI Desktop.
 
 ## Screenshots
-
-Screenshots of the dashboard will be added here.
+![Dashboard screenshot](Screenshot%202026-10-26%20200040.png)
